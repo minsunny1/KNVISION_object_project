@@ -1,7 +1,7 @@
 ![KWVdyX4O8ZE1KW](https://github.com/minsunny1/KNVISION_object_project/assets/122509421/fddf51e1-be96-48aa-91c2-ee75c9d9521e)
 
 
-##  🍎 큰비젼 거리큘럼
+##  🍎 큰비젼 
 
 | Week |커리큘럼 내용 |
 | ------ |----------- |
